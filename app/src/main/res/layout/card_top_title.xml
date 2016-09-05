@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:id="@+id/card_top_title"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text=" title"
+    android:textSize="15sp"
+    android:background="#c0c0c0"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

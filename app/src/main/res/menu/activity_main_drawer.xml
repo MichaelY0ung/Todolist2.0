@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/ic_assignment_blue_700_24dp"
+            android:id="@+id/nav_noted"
+            android:title="草稿箱" />
+        <item
+            android:icon="@drawable/ic_delete_blue_700_24dp"
+            android:id="@+id/nav_trash"
+            android:title="废纸篓" />
+        <item
+            android:icon="@drawable/ic_insert_chart_blue_700_24dp"
+            android:id="@+id/nav_chart"
+            android:title="统计" />
+        <item
+            android:icon="@drawable/ic_alarm_blue_700_24dp"
+            android:id="@+id/nav_alarm"
+            android:title="闹钟" />
+        <item
+            android:icon="@drawable/ic_backup_blue_700_24dp"
+            android:id="@+id/nav_cloud"
+            android:title="同步"/>
+        <item
+            android:icon="@drawable/ic_settings_applications_blue_700_24dp"
+            android:id="@+id/nav_setting"
+            android:title="设置" />
+    </group>
+
+    <item android:title="关于应用">
+        <menu>
+            <item
+                android:icon="@drawable/ic_help_blue_700_24dp"
+                android:id="@+id/nav_help"
+                android:title="帮助" />
+            <item
+                android:icon="@drawable/ic_feedback_blue_700_24dp"
+                android:id="@+id/nav_back"
+                android:title="意见反馈" />
+            <item
+                android:icon="@drawable/ic_monetization_on_blue_700_24dp"
+                android:id="@+id/nav_encourage"
+                android:title="鼓励一下" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_dialog">EditDialogActivity</string>
+    <string name="main_search_hint">search</string>
+    <string name="search">搜索</string>
+    <string name="search_note">搜索记录</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+</resources>
